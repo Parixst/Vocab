@@ -1,0 +1,25 @@
+{
+  "name": "Day 41 단어 퀴즈",
+  "short_name": "단어퀴즈",
+  "description": "수능 영단어 퀴즈, 카드, 단어장",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef4ec",
+  "theme_color": "#eef4ec",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
